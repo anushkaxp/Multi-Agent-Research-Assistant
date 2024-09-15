@@ -4,8 +4,11 @@ The Multi-Agent Research Assistant is designed to assist researchers by automati
 
 ## Objectives
 1) Automated Research Paper Retrieval: Agents fetch papers from databases like arXiv using specific search queries.
+
 2)Text Extraction: Agents extract relevant sections such as titles, abstracts, keywords, conclusions, and more.
+
 3)Summarization: Agents create concise summaries of the papers by analyzing their content.
+
 4)Collaboration: Agents communicate to divide and accomplish tasks efficiently.
 
 ## Agents in the System
