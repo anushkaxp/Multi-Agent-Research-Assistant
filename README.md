@@ -55,8 +55,9 @@ Install required dependencies:
 
 
 ## Usage
-1)Start the system by running the main program.
-2)Enter a research topic or query.
-3)The system will fetch papers, extract relevant information, and generate summaries.
-4)The summarized results will be displayed for the user
+1. Start the system by running the main program.
+2. Enter a research topic or query.
+3. The system will fetch papers, extract relevant information, and generate summaries.
+4. The summarized results will be displayed for the user
+
 
