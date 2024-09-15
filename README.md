@@ -47,7 +47,7 @@ Required Libraries
 4)xml.etree.ElementTree
 
 ## Setup Instructions
-Clone the repository: "git clone https://github.com/username/multi-agent-research-assistant.git
+Clone the repository: "git clone https://github.com/anushkaxp/Multi-Agent-Research-Assistant.git
 cd multi-agent-research-assistant"
 
 Install required dependencies:
